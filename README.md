@@ -8,7 +8,7 @@
 - **Huacausi Cahuana, Ciprian**
 
 📅 **Fecha:** 25/10/2025  
-🏫 **Universidad Nacional Mayor de San Marcos – Escuela de Ingeniería de Software**
+🏫 **Universidad Nacional Mayor de San Marcos**
 
 ---
 
