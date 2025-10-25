@@ -4,7 +4,7 @@
 - **Urtecho Quezada, Brandon Lee**
 - **Mantilla Canedo, Melanie**
 - **Vásquez Cauper, Alex**
-- **Gutiérrez Mejía, Fernando Alberto**
+- **Gutierrez Mejía, Fernando Alberto**
 - **Huacausi Cahuana, Ciprian**
 
 📅 **Fecha:** 25/10/2025  
@@ -115,5 +115,5 @@ Permite observar patrones espaciales, demográficos y estacionales.
 
 ## 🧾 Licencia
 
-Proyecto académico sin fines de lucro.  
-© 2025 – Grupo de Analítica Predictiva en Salud Mental – UNMSM.
+Proyecto del grupo 1 
+© 2025 - Curso Machine Learning y Big Data – UNMSM.
