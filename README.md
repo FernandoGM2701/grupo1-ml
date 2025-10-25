@@ -39,25 +39,18 @@ La finalidad es apoyar la **gestión preventiva de recursos** y **la detección 
 
   Permite identificar de forma anticipada aumentos en las tasas de casos positivos, ayudando al MINSA a tomar decisiones informadas sobre campañas y estrategias preventivas regionales.
 
-
-### Objetivos Específicos
-- Analizar la distribución de tamizajes y tasas históricas.  
-- Realizar limpieza, transformación y balanceo de datos.  
-- Entrenar y evaluar modelos de regresión con métricas robustas.  
-- Implementar una interfaz visual interactiva con Streamlit para interpretación.  
-
 ---
 
 ## 📊 Dataset
 
-- **Origen:** Portal de Datos Abiertos del MINSA.  
-- **Formato:** CSV tabular (~20k registros).  
-- **Cobertura:** Datos agregados por **departamento, sexo, grupo etario y diagnóstico**.  
-- **Variable objetivo:**  
-  - `tasa_positivos (%)` o número proyectado de casos positivos.  
-  - Tipo: **Numérico continuo (regresión)**.  
+- **Origen:**  Real – Datos abiertos del Ministerio de Salud del Perú (MINSA) consolidados a partir de los registros de tamizajes por departamento, sexo, grupo etario y diagnóstico.
+- **Formato y estructura:** CSV (estructura tabular).   
+- **Variable objetivo:**
+  - Tasa de tamizajes positivos (%) o número proyectado de casos positivos (variable continua).
+- **Tipo de dato:**
+  - Numérico continuo (regresión)
 
-### Variables principales
+### Ejemplo de variables
 | Categoría | Variables |
 |------------|------------|
 | Temporales | Año, NroMes |
