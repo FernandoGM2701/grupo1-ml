@@ -108,6 +108,7 @@ Permite observar patrones espaciales, demográficos y estacionales.
 ├── notebooks/           # Análisis exploratorio y experimentos
 │   └── tamizajes_presentacion_parcial.ipynb
 ├── .gitignore           # Archivos a excluir
+├── LICENSE.txt          # Documento de licencia
 └── README.md            # Documentación principal
 ```
 
